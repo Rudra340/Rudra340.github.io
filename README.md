@@ -1,7 +1,7 @@
 # Rudra340.github.io
 Tutorial for Docker Hub Images
 
-**Title: Building a Three-Tier Application with Docker: A Step-by-Step Guide**
+#**Title: Building a Three-Tier Application with Docker: A Step-by-Step Guide**
 
 Welcome to our comprehensive tutorial on building a three-tier application using Docker! In this guide, we'll walk you through every step, from setting up your environment to deploying a multi-container application. Let's dive in!
 
@@ -159,21 +159,8 @@ Copy code
 docker-compose up
 Docker Compose will build the necessary Docker images and start the containers for each component. You should see logs indicating that each service is up and running.
 
-Congratulations! You've successfully orchestrated a multi-container setup for a three-tier application using Docker.
 
-Part 2: Deployment and Testing
-
-In Part 2 of our tutorial, we'll deploy our application and perform some basic testing to ensure everything is working as expected.
-
-Stay tuned for the next part!
-
-Part 3: Advanced Docker Compose and Best Practices
-
-In Part 3, we'll explore additional features of Docker Compose and discuss best practices for managing multi-container applications.
-
-Stay tuned for the final part!
-
-Conclusion
+**Conclusion**
 
 In this tutorial, we've learned how to build a three-tier application using Docker. We've created Dockerfiles for each component, orchestrated the multi-container setup using Docker Compose, and deployed our application.
 
